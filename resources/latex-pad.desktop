@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=LaTeX Pad
+Comment=Write, preview, and export LaTeX equations locally
+Exec=latex-pad %f
+Icon=latex-pad
+Terminal=false
+Categories=Education;Math;
+MimeType=text/x-tex;
+StartupWMClass=latex-pad
